@@ -33,3 +33,13 @@
     (3) Sprint Retrospective Meetings
         - Discuss completed work
         - Move incomplete work to backlog to close the sprint
+
+(d) Differentiate between Eic, Story, Bug, and Task issue types in JIRA.
+    - Epic: Captures a large body of work that can be broken down into several
+            smaller stories
+    - Story: A software system requirement that is expressed in a few short
+             sentences
+    - Bug: Used to track problems or defects within a software system
+    - Task: Represents a piece of work that needs to be completed within a project,
+            typically a smaller, individual action that contributes to a larger
+            feature or bug fix.
