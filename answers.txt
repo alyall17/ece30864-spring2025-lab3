@@ -13,3 +13,11 @@
           over time, leading to uncontrolled scope expansion
         - Agile development relies on highly self-organized and motivated teams
           to function the most effectively
+
+(b) Explain the role and responsibilities of the Scrum Master vs. the Product
+    Owner.
+    - The Scrum Master is responsible for managing all scrum related tasks.
+      This includes managing the JIRA tooling, facilitating sprints and meetings,
+      and standups.
+    - The Product Owner is responsible for setting the direction for the team, as
+      well as handling release and stakeholder management.
