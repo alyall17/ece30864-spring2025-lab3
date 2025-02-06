@@ -21,3 +21,15 @@
       and standups.
     - The Product Owner is responsible for setting the direction for the team, as
       well as handling release and stakeholder management.
+
+(c) What are the 3 types of meetings that happen during a sprint cycle? List at
+    least 2 points on what needs to be discussed during each of these meetings.
+    (1) Sprint Planning Meetings
+        - Determines what needs to be completed in the coming sprint
+        - Determines story points and assign stories to teams
+    (2) Daily Scrum/Standup Meetings
+        - Discuss work that has been completed
+        - Discuss work plan for the upcoming day and any blockers to that work
+    (3) Sprint Retrospective Meetings
+        - Discuss completed work
+        - Move incomplete work to backlog to close the sprint
