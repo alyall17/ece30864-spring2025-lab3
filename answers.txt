@@ -1,0 +1,15 @@
+(a) What are some Pros and Cons of Agile development (vs. non-Agile)? List
+    2 of each.
+    - PROS:
+        - Agile development allows for more resilience to scope changes in the
+          prject, which means the development and final product requirements
+          can be more adaptable for the client.
+        - Agile development allows for constant communication with the client
+          so that they have a better idea of what's going on, and if they need
+          a feature changed it can be done so in real time.
+    - CONS:
+        - One con of Agile-development is "scope creep," which implies that
+          without clear boundaries, features can easily be added to a project
+          over time, leading to uncontrolled scope expansion
+        - Agile development relies on highly self-organized and motivated teams
+          to function the most effectively
